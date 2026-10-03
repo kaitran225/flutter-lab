@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "description": "An orphaned boy enrolls in a school of wizardry and discovers his destiny."
+  },
+  {
+    "id": 2,
+    "name": "Harry Potter and the Chamber of Secrets",
+    "description": "A mysterious presence stalks Hogwarts and leaves victims paralyzed."
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "description": "An escaped prisoner threatens Harry in his third year at Hogwarts."
+  },
+  {
+    "id": 4,
+    "name": "Harry Potter and the Goblet of Fire",
+    "description": "Harry competes in a deadly tournament between rival magic schools."
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and the Order of the Phoenix",
+    "description": "Harry and Dumbledore face the Ministry as dark forces rise."
+  },
+  {
+    "id": 6,
+    "name": "Harry Potter and the Half-Blood Prince",
+    "description": "Harry discovers a mysterious book and Voldemort's dark past."
+  },
+  {
+    "id": 7,
+    "name": "Harry Potter and the Deathly Hallows – Part 1",
+    "description": "Harry, Ron and Hermione hunt Horcruxes and uncover the Deathly Hallows."
+  },
+  {
+    "id": 8,
+    "name": "Harry Potter and the Deathly Hallows – Part 2",
+    "description": "The final battle to defeat Voldemort once and for all."
+  }
+]
